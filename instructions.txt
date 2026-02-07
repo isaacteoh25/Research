@@ -1,0 +1,3 @@
+conda create -n neuro python=3.13
+conda activate neuro
+pip install -r requirements.txt
